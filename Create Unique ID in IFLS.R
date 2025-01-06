@@ -1,7 +1,7 @@
 #Muye Day 1: IFLS Awal
 library(haven)
 library(dplyr)
-bk_ar1 <- read_dta("C:/Users/Muflih/Downloads/hh14_all_dta/bk_ar1.dta")
+bk_ar1 <- read_dta("R/Data for Learning/bk_ar1.dta")
 View(bk_ar1)
 
 #Generate unique id of the fifth wave of IFLS (IFLS 2014) ----
